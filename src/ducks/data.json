@@ -1,0 +1,118 @@
+{
+  "select": {
+    "fontFamily": [
+      {
+        "label": "Arial",
+        "value": "Arial",
+        "selected": true
+      },
+      {
+        "label": "Times New Roman",
+        "value": "Times New Roman"
+      },
+      {
+        "label": "Open Sans",
+        "value": "Open Sans"
+      },
+      {
+        "label": "Verdana",
+        "value": "Verdana"
+      }
+    ],
+    "fontSize": [
+      {
+        "label": "8px",
+        "value": "8px"
+      },
+      {
+        "label": "9px",
+        "value": "9px"
+      },
+      {
+        "label": "10px",
+        "value": "10px"
+      },
+      {
+        "label": "11px",
+        "value": "11px"
+      },
+      {
+        "label": "12px",
+        "value": "12px"
+      },
+      {
+        "label": "14px",
+        "value": "14px",
+        "selected": true
+      },
+      {
+        "label": "16px",
+        "value": "16px"
+      },
+      {
+        "label": "18px",
+        "value": "18px"
+      },
+      {
+        "label": "20px",
+        "value": "20px"
+      },
+      {
+        "label": "24px",
+        "value": "24px"
+      },
+      {
+        "label": "28px",
+        "value": "28px"
+      },
+      {
+        "label": "32px",
+        "value": "32px"
+      },
+      {
+        "label": "36px",
+        "value": "36px"
+      },
+      {
+        "label": "40px",
+        "value": "40px"
+      },
+      {
+        "label": "44px",
+        "value": "44px"
+      },
+      {
+        "label": "48px",
+        "value": "48px"
+      },
+      {
+        "label": "54px",
+        "value": "54px"
+      },
+      {
+        "label": "60px",
+        "value": "60px"
+      },
+      {
+        "label": "66px",
+        "value": "66px"
+      },
+      {
+        "label": "72px",
+        "value": "72px"
+      },
+      {
+        "label": "80px",
+        "value": "80px"
+      },
+      {
+        "label": "88px",
+        "value": "88px"
+      },
+      {
+        "label": "96px",
+        "value": "96px"
+      }
+    ]
+  }
+}
